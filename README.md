@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![image](https://github.com/Aizada30/Aizada30/assets/131680193/f968b970-2d0a-4233-90ff-41094354b046)
+![image](https://github.com/Aizada30/Aizada30/assets/131680193/d614bc3c-d21e-43ce-9c65-00be809c3752)
 
 
 <!--
