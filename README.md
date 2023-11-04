@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-![image](https://github.com/Aizada30/Aizada30/assets/131680193/f968b970-2d0a-4233-90ff-41094354b046)
-![image](https://github.com/Aizada30/Aizada30/assets/131680193/d614bc3c-d21e-43ce-9c65-00be809c3752)
+<h1 align="center">Hi , I'm Abdyrazakova Aizada <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+</p>
 
 
 <!--
