@@ -14,7 +14,7 @@
 
 <br><br>
 
-- :certificates: Certificate of successful completion Peaksoft House
+- :bookmark_tabs: Certificate of successful completion Peaksoft House
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `CSS` and `HTML`.
 - :nerd_face: Always `learning new things`.
