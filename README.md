@@ -33,7 +33,3 @@
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
   <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
 </p>
-----
-Credit: [lostgirljourney](https://github.com/lostgirljourney)
-
-Last Edited on: 04/11/2023
