@@ -28,10 +28,22 @@
 
 
 
-
+<hr>
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br><br>
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
   <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
 </p>
+<hr>
 
+<p align="center"> 
+  <b>Currently Playing🎶...</b><br><br>
+  <img src="https://novatorem.lostgirljourney.vercel.app/api/spotify" href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu"/>
+</p>
+<hr>
+<!-- can't stop myself from editing🤷... -->
+
+----
+Credit: [lostgirljourney](https://github.com/lostgirljourney)
+
+Last Edited on: 23/09/2020
