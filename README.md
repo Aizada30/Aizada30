@@ -22,7 +22,7 @@
 - :boom: You can visit me in LinkedIn [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
 
-![walleeva2023 GitHub stats](https://github.com/settings/profile) 
+![walleeva2023 GitHub stats]([https://github.com/settings/profile](https://github-readme-stats.vercel.app/api?username=walleeva2018&show_icons=true&theme=radical)) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=walleeva2023&theme=radical)](https://git.io/streak-stats) 
 
