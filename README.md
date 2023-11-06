@@ -22,9 +22,9 @@
 - :boom: You can visit me in LinkedIn [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
 
-![walleeva2023 GitHub stats]([https://github.com/settings/profile](https://github-readme-stats.vercel.app/api?username=Aizada30&show_icons=true&theme=green)) 
+![walleeva2023 GitHub stats]([https://github.com/settings/profile](https://github-readme-stats.vercel.app/api?username=Aizada30&show_icons=true&theme=vue)) 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aizada30&theme=green)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aizada30&theme=vue)](https://git.io/streak-stats) 
 
 [![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aizada30&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
 
