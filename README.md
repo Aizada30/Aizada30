@@ -22,13 +22,8 @@
 - :boom: You can visit me in LinkedIn [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
 
-![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=walleeva2018&show_icons=true&theme=radical) 
+![image](https://github.com/Aizada30/Aizada30/assets/131680193/362dec84-c8ea-4e88-b37b-89554ffb25eb)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=walleeva2018&theme=radical)](https://git.io/streak-stats) 
-
-[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=walleeva2018&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=walleeva2018)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
