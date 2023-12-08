@@ -22,7 +22,7 @@
 - :boom: You can visit me in LinkedIn [MY WEBSITE]([https://cutt.ly/Ahmed_Hossam_Website](https://www.linkedin.com/in/aizada-abdyrazakova-3a2275293/)).
 <br>
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg
+![image](https://github.com/Aizada30/Aizada30/assets/131680193/565276af-2d9f-4023-9947-437027a4f8cb)
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
