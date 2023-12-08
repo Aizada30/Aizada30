@@ -21,6 +21,9 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - :boom: You can visit me in LinkedIn [MY WEBSITE]([https://cutt.ly/Ahmed_Hossam_Website](https://www.linkedin.com/in/aizada-abdyrazakova-3a2275293/)).
 <br>
+
+https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg
+
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
   <i><b>Profile Visitor Count...</b></i><br><br>
