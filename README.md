@@ -23,7 +23,7 @@
 <br>
 
 ![image](https://github.com/Aizada30/Aizada30/assets/131680193/565276af-2d9f-4023-9947-437027a4f8cb)
-![image](https://github.com/Aizada30/Aizada30/assets/131680193/50297436-fd80-4809-aeac-535b612339d1)
+![image  width = 250px](https://github.com/Aizada30/Aizada30/assets/131680193/50297436-fd80-4809-aeac-535b612339d1 )
 
 
 <p align="center"> 
