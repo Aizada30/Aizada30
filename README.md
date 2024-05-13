@@ -10,8 +10,8 @@
 
 - :bookmark_tabs: Certificate of successful completion [Peaksoft House](https://www.google.com/search?q=peaksoft+house+%D0%B1%D0%B8%D1%88%D0%BA%D0%B5%D0%BA&sca_esv=ac096cdb2ad9c657&sxsrf=ADLYWIJVHSuJ_9lmnnExCfqri6DO11aUIQ%3A1715590497517&ei=YdVBZpaEH4Xg7_UP8ZqniA0&oq=Peaksoft+hou&gs_lp=Egxnd3Mtd2l6LXNlcnAiDFBlYWtzb2Z0IGhvdSoCCARIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEAmAIAoAIAmAMAkgcAoAcA&sclient=gws-wiz-serp)
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `CSS` and `HTML`.
+- :student: I’m currently learning `JAVA` and `HTML`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit me in LinkedIn [MY WEBSITE]([https://cutt.ly/Ahmed_Hossam_Website](https://www.linkedin.com/in/aizada-abdyrazakova-3a2275293/)).
+- :boom: You can visit me in LinkedIn [MY WEBSITE](https://www.linkedin.com/in/aizada-abdyrazakova-3a2275293/).
 <br>
