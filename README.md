@@ -13,7 +13,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `JAVA` and `HTML`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([http://lnkiy.in/Ahmed_Hossam_Resume](https://drive.google.com/drive/u/0/home)](https://drive.google.com/file/d/1xZ9isoTScUMW4MX54s5N7igx7HUlrPz1/view?usp=drive_link)).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume](https://drive.google.com/drive/u/0/home)](https://drive.google.com/file/d/1xZ9isoTScUMW4MX54s5N7igx7HUlrPz1/view?usp=drive_link)).
 - :boom: You can visit me in LinkedIn [MY WEBSITE](https://www.linkedin.com/in/aizada-abdyrazakova-3a2275293/).
 <br>
 
