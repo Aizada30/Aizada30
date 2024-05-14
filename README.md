@@ -14,7 +14,6 @@
 - :student: I’m currently learning `JAVA` and `HTML`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1xZ9isoTScUMW4MX54s5N7igx7HUlrPz1/view?usp=drive_link).
-- :boom: You can visit me in LinkedIn [MY WEBSITE](https://www.linkedin.com/in/aizada-abdyrazakova-3a2275293/).
 <br>
 
 <br><br>
@@ -50,10 +49,13 @@
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-- **Extrasыыыы**:
+  <h3>🌐 Socials:</h3>
 
-    ![Terminal](https://camo.githubusercontent.com/347d8800913e3689cc300d43e269bce0b827ea197cc1207ed2c165b3bf014e12/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6172796e6261657620536569697462656b2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/AizadaAbdyrazakova)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](http://www.instagram.com/a_aizada_d__)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/aizada-abdyrazakova-3a2275293/)
 
+ 
 
 <p align="center">
 
