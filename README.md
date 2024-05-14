@@ -50,5 +50,11 @@
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+- **Extrasыыыы**:
+
+    ![Terminal](https://camo.githubusercontent.com/347d8800913e3689cc300d43e269bce0b827ea197cc1207ed2c165b3bf014e12/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6172796e6261657620536569697462656b2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)
+
 
 <p align="center">
+
+
