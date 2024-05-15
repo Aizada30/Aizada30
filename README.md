@@ -62,9 +62,6 @@
 [![Telegram](https://camo.githubusercontent.com/1523e23c303d1061a3f3713cae5f130ba2ac8f0d02ed2149413d7a25d8ef5fc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d4531414644313f7374796c653d666f722d7468652d6261646765266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465)](https://t.me/AizadaAbdyrazakova)
 [![Email](https://camo.githubusercontent.com/bd1561f485db3d1a2f6cc7812e913acc609067a57b4bcbf1581871ccf770447b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4646443045433f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d666666)](mailto:a.aizada.a3@gmail.com)
 
-</a> &nbsp;&nbsp;&nbsp;  <a href="mailto:narynbaev.seiitbek@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/narynbaev.seiitbek@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>   
- 
-
 <p align="center">
 
 
