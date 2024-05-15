@@ -16,6 +16,8 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1xZ9isoTScUMW4MX54s5N7igx7HUlrPz1/view?usp=drive_link).
 <br>
 
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
   <h3>🌐 Socials:</h3>
 
 [![LinkedIn](https://camo.githubusercontent.com/9b790b877aa42fd18f7761f4dab9ece1d3a333edd417d2c5a8665dad25775d0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3734363942363f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/aizada-abdyrazakova-3a2275293/)
