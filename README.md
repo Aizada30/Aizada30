@@ -51,12 +51,6 @@
 
   <h3>🌐 Socials:</h3>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/AizadaAbdyrazakova)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](http://www.instagram.com/a_aizada_d__)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/aizada-abdyrazakova-3a2275293/)
-
-
-
 [![LinkedIn](https://camo.githubusercontent.com/9b790b877aa42fd18f7761f4dab9ece1d3a333edd417d2c5a8665dad25775d0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3734363942363f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/aizada-abdyrazakova-3a2275293/)
 [![Instagram](https://camo.githubusercontent.com/bd9f7dca0761a6d047e0177ffcf86575906d3b867d739bc6024a2290c22659d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4144383843363f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465)](http://www.instagram.com/a_aizada_d__)
 [![Telegram](https://camo.githubusercontent.com/1523e23c303d1061a3f3713cae5f130ba2ac8f0d02ed2149413d7a25d8ef5fc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d4531414644313f7374796c653d666f722d7468652d6261646765266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465)](https://t.me/AizadaAbdyrazakova)
