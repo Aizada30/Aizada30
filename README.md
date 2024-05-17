@@ -11,7 +11,7 @@
 
 - :bookmark_tabs: Successful completion [Peaksoft House](https://www.google.com/search?q=peaksoft+house+%D0%B1%D0%B8%D1%88%D0%BA%D0%B5%D0%BA&sca_esv=ac096cdb2ad9c657&sxsrf=ADLYWIJVHSuJ_9lmnnExCfqri6DO11aUIQ%3A1715590497517&ei=YdVBZpaEH4Xg7_UP8ZqniA0&oq=Peaksoft+hou&gs_lp=Egxnd3Mtd2l6LXNlcnAiDFBlYWtzb2Z0IGhvdSoCCARIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEAmAIAoAIAmAMAkgcAoAcA&sclient=gws-wiz-serp)
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `JAVA` and `HTML`.
+- :student: I’m currently learning `JAVA` and `SQL`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1K35VuGHpsf-LIp-ShnMZEjXZZGLdy8Pc/view?usp=sharing).
 <br>
