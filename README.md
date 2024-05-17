@@ -6,6 +6,7 @@
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br><br>
+
 - :bookmark_tabs: Successful completion [Peaksoft House](https://www.google.com/search?q=peaksoft+house+%D0%B1%D0%B8%D1%88%D0%BA%D0%B5%D0%BA&sca_esv=ac096cdb2ad9c657&sxsrf=ADLYWIJVHSuJ_9lmnnExCfqri6DO11aUIQ%3A1715590497517&ei=YdVBZpaEH4Xg7_UP8ZqniA0&oq=Peaksoft+hou&gs_lp=Egxnd3Mtd2l6LXNlcnAiDFBlYWtzb2Z0IGhvdSoCCARIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEAmAIAoAIAmAMAkgcAoAcA&sclient=gws-wiz-serp)
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `JAVA` and `SQL`.
